@@ -10,7 +10,6 @@ This project implements a simple API for managing feedback entries. It allows us
 
 - Create new feedback entries with scores and comments.
 - Retrieve all feedback entries.
-- Retrieve a specific feedback entry by ID.
 - Handle validation and error cases for feedback creation.
 
 ## Technologies Used
