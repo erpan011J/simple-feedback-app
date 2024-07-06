@@ -25,7 +25,7 @@ This project implements a simple API for managing feedback entries. It allows us
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/erpan011J/simple-feedback-app.git
    cd simple-feedback-app
    ```
 
