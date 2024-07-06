@@ -41,13 +41,11 @@ This project implements a simple API for managing feedback entries. It allows us
 
 ## Testing
    To run tests using pytest:
-    
     ```bash
-    cd simple-feedback-app
     docker exec feedback_app_backend pytest
     ```
     
 ## API Documentation
 
     Once the application is running, you can access the API documentation (Swagger UI) at:
-    - http://localhost:8000/docs
+    http://localhost:8000/docs
