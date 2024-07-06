@@ -42,7 +42,7 @@ This project implements a simple API for managing feedback entries. It allows us
 ## Testing
    - To run tests using pytest:
      
-    ```bash
+   ```bash
    docker exec feedback_app_backend pytest
    ```
     
